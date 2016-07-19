@@ -8,4 +8,5 @@
 * [实时音视频通话](VIDEO.md)
 * [行业解决方案](solutions/README.md)
    * [IM Solution](solutions/IM.md)
+   * Webinar
 
