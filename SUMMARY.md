@@ -7,5 +7,5 @@
 * [实时推送](PUSH.md)
 * [实时音视频通话](VIDEO.md)
 * 行业解决方案
-   * IM Solution
+   * [IM Solution](solutions/IM.md)
 
