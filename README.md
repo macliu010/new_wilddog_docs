@@ -1,8 +1,9 @@
 # new_wilddog_docs
 
-野狗新文档，用于Gitbook。欢迎参加项目。
+野狗新文档，用于Gitbook。欢迎共同参与文档编写。
 
-Gitbook地址：  https://macliu010.gitbooks.io/new_wilddog_docs/content/
+Gitbook 地址：  https://macliu010.gitbooks.io/new_wilddog_docs/content/
+Github 地址：https://github.com/macliu010/new_wilddog_docs
 
 野狗愿景是成为全球领先的实时通信云服务，让生活因为实时而更加美好。
 
