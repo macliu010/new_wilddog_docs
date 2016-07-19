@@ -1,4 +1,4 @@
 # Summary
 
-* [快速入门](QUICK)
+* [快速入门](QUICKSTART.md)
 
