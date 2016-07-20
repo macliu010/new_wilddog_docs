@@ -1,7 +1,7 @@
 # Summary
 
+* [文档编写计划](PLANS.md)
 * [简介](README.md)
-   * [文档编写计划](PLANS.md)
 * [快速入门](QUICKSTART.md)
 * [身份认证](AUTHENTICATION.md)
 * [实时数据库](DATABASE.md)
