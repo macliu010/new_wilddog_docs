@@ -5,6 +5,7 @@
 * [身份认证](AUTHENTICATION.md)
 * [实时数据库](DATABASE.md)
    * [读写权限](db/PERMISSION.md)
+   * 数据操作
 * [实时推送](PUSH.md)
 * [实时音视频通话](VIDEO.md)
 * [行业解决方案](solutions/README.md)
